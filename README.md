@@ -7,7 +7,7 @@ Teaching a characterwise MLP to encode/decode ROT13 from scratch
 
 `python3 predicting.py hygenfrpergzrffntr`
 
-### Desired outputs:
+### Outputs:
 ```
 Original message:  ultrasecretmessage
 Predicted message: hygenfrpergzrffntr

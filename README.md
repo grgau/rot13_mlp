@@ -1,5 +1,5 @@
-# ROT13 MLP
-Teaching a characterwise MLP to encode/decode ROT13 from scratch
+# ROT13 Encryption Neural Network
+Teaching a characterwise MLP to encode/decode ROT13 encryption from scratch
 
 ## Usage:
 
